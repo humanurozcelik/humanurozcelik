@@ -36,10 +36,6 @@ Machine-learning workflow for three-class fetal health classification using leak
 
 [View repository](https://github.com/humanurozcelik/fetal-health-ctg-classification)
 
-## Currently Exploring
-
-Medical device R&D, ECG and biosignal processing, system integration, software testing and validation, and systems engineering.
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/humanurozcelik/) · [GitHub](https://github.com/humanurozcelik)
